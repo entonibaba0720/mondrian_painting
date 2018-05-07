@@ -1,0 +1,92 @@
+#canvas {
+  width: 400px;
+  height: 400px;
+  background-color: gainsboro;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px gray;
+}
+
+#first-row {
+  height: 70%;
+  width: 100%;
+}
+
+#big-rectangle {
+  height: 100%;
+  width: 75%;
+}
+
+#first-divider {
+  height: 100%;
+  width: 3%;
+}
+
+#first-column {
+  height: 100%;
+  width: 22%;
+}
+
+#first-medium-rectangle {
+  height: 44.5%;
+  width: 100%;
+}
+
+#second-divider {
+  height: 8%;
+  width: 100%;
+}
+
+#second-medium-rectangle {
+  height: 47.5%;
+  width: 100%;
+}
+
+#second-row {
+  height: 3%;
+  width: 100%;
+}
+
+#third-row {
+  height: 27%;
+  width: 100%;
+}
+
+#last-column {
+  height: 100%;
+  width: 5%;
+}
+
+#first-small-rectangle {
+  height: 41%;
+  width: 100%;
+}
+
+#last-divider {
+  height: 12%;
+  width: 100%;
+}
+
+#second-small-rectangle {
+  height: 41%;
+  width: 100%;
+}
+
+#flat-rectangle {
+  height: 100%;
+  width: 67%;
+}
+
+#blue-rectangle {
+  height: 100%;
+  width: 22%;
+}
+
+.red { background-color: firebrick; }
+
+.black { background-color: black; }
+
+.yellow { background-color: gold; }
+
+.blue { background-color: steelblue;}
+
+.right { float: right; }
